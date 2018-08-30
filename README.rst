@@ -6,11 +6,11 @@ crawker
 .. image:: https://img.shields.io/pypi/v/cwk.svg
         :target: https://pypi.python.org/pypi/cwk
 
-.. image:: https://img.shields.io/travis/cosmin.lazar.zahacinschi88@gmail.com/cwk.svg
-        :target: https://travis-ci.org/cosmin.lazar.zahacinschi88@gmail.com/cwk
+.. image:: https://img.shields.io/travis/cosmin-lazar-zahacinschi/fluffy-robot.svg
+        :target: https://travis-ci.org/cosmin-lazar-zahacinschi/fluffy-robot
 
-.. image:: https://readthedocs.org/projects/cwk/badge/?version=latest
-        :target: https://cwk.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/fluffy-robot/badge/?version=latest
+        :target: https://fluffy-robot.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
